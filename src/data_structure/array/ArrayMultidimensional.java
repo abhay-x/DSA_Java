@@ -2,7 +2,7 @@ package data_structure.array;
 
 import java.util.Arrays;
 
-public class Multidimensional {
+public class ArrayMultidimensional {
     public static void main(String[] args) {
         int arr[][] = new int[3][]; //rows are mandatory for initialization
         System.out.println(Arrays.toString(arr));

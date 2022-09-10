@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a219f9a8-5b4e-4fc7-89e3-61bbc1318c1c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/array/Multidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/ArrayMultidimensional.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,21 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="LinearSearch" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.array.LinearSearch" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +68,15 @@
       <workItem from="1660929674611" duration="137000" />
       <workItem from="1660929831779" duration="21693000" />
       <workItem from="1661235856046" duration="3816000" />
-      <workItem from="1661252959395" duration="8157000" />
+      <workItem from="1661252959395" duration="8327000" />
+      <workItem from="1662048883255" duration="652000" />
+      <workItem from="1662220306829" duration="3600000" />
+      <workItem from="1662364367397" duration="3752000" />
+      <workItem from="1662446188950" duration="1718000" />
+      <workItem from="1662468516325" duration="5968000" />
+      <workItem from="1662536247955" duration="6000" />
+      <workItem from="1662536734146" duration="2133000" />
+      <workItem from="1662618813330" duration="1446000" />
     </task>
     <servers />
   </component>
@@ -81,5 +105,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DSA_Java$LinearSearch.ic" NAME="LinearSearch Coverage Results" MODIFIED="1662537068096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>data_structure.array.*</FILTER>
+    </SUITE>
   </component>
 </project>
