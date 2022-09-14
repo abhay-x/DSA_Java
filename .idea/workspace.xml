@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a219f9a8-5b4e-4fc7-89e3-61bbc1318c1c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/array/Multidimensional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/ArrayMultidimensional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/array/ArrayBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/ArrayBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/array/MaxArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data_structure/array/SwapArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/SwapElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simple_algo/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple_algo/InfiniteInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +44,19 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithms.linear_search" />
+      <recent name="algorithms.binary_search" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="LinearSearch" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure.array.LinearSearch" />
       <module name="DSA Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.array.*" />
+          <option name="PATTERN" value="algorithms.linear_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,6 +87,8 @@
       <workItem from="1662536247955" duration="6000" />
       <workItem from="1662536734146" duration="2133000" />
       <workItem from="1662618813330" duration="1446000" />
+      <workItem from="1662797737812" duration="166000" />
+      <workItem from="1662975448324" duration="23827000" />
     </task>
     <servers />
   </component>
@@ -105,6 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DSA_Java$LinearSearch.ic" NAME="LinearSearch Coverage Results" MODIFIED="1662537068096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

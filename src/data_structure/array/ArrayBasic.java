@@ -11,7 +11,6 @@ public class ArrayBasic {
         int arr1[] = {1, 2, 3, 4, 5};
         change(arr1);//arr1 contains reference of object
         System.out.println(Arrays.toString(arr)+" length:"+arr.length+"\n"+Arrays.toString(arr1)+" length:"+arr1.length);
-
     }
     static void change(int st[]){
         st[0]=88;
