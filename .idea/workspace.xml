@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a219f9a8-5b4e-4fc7-89e3-61bbc1318c1c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/array/ArrayBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/ArrayBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/array/MaxArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/array/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/array/SwapArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/array/SwapElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/simple_algo/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simple_algo/InfiniteInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +37,11 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -50,7 +50,40 @@
       <recent name="algorithms.binary_search" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LinearSearch">
+    <configuration name="ArrayEvenNoOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.linear_search.ArrayEvenNoOfDigits" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.linear_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayFloorOfNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.binary_search.ArrayFloorOfNo" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exam2" />
+      <module name="DSA Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinearSearch" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="data_structure.array.LinearSearch" />
       <module name="DSA Java" />
@@ -64,6 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayFloorOfNo" />
+        <item itemvalue="Application.Exam2" />
+        <item itemvalue="Application.ArrayEvenNoOfDigits" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -89,6 +129,20 @@
       <workItem from="1662618813330" duration="1446000" />
       <workItem from="1662797737812" duration="166000" />
       <workItem from="1662975448324" duration="23827000" />
+      <workItem from="1663185817168" duration="81000" />
+      <workItem from="1663185968654" duration="9000" />
+      <workItem from="1663220805416" duration="2863000" />
+      <workItem from="1663315477046" duration="616000" />
+      <workItem from="1663433651155" duration="8474000" />
+      <workItem from="1663484789152" duration="9715000" />
+      <workItem from="1663646230587" duration="5000" />
+      <workItem from="1663667243412" duration="6000" />
+      <workItem from="1663667311778" duration="6187000" />
+      <workItem from="1663928907555" duration="11000" />
+      <workItem from="1663929078541" duration="3007000" />
+      <workItem from="1663997796136" duration="4072000" />
+      <workItem from="1664021395129" duration="9886000" />
+      <workItem from="1664103765140" duration="324000" />
     </task>
     <servers />
   </component>
