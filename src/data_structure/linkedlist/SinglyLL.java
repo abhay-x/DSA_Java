@@ -8,9 +8,9 @@ class SLL {
 
     public SLL() {
         this.size = 0;
-    }
+    }//constructor
 
-    private class Node { //private so nobody can access from outside this class
+    private class Node { //private so nobody can access from outside this class SLL
         int val;
         Node next;
 
@@ -88,7 +88,7 @@ class SLL {
         size++;
     }
 
-    void display() {
+    public void display() {
         if (head == null) {
             System.out.println("Linked List is Empty");
             return;
