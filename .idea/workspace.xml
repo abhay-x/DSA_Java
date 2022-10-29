@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a219f9a8-5b4e-4fc7-89e3-61bbc1318c1c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/01855c44-896a-45c0-b309-0391555437b2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/01855c44-896a-45c0-b309-0391555437b2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_structure/linkedlist/SinglyLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_structure/linkedlist/SinglyLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/binary_search/RotatedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/binary_search/RotatedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +111,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RotatedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.binary_search.RotatedArray" />
+      <module name="DSA Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.binary_search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotatedArray" />
         <item itemvalue="Application.Kadane_algo" />
         <item itemvalue="Application.ArrayFloorOfNo" />
         <item itemvalue="Application.Exam2" />
@@ -177,7 +188,8 @@
       <workItem from="1666889015116" duration="535000" />
       <workItem from="1666890322427" duration="6000" />
       <workItem from="1666892019561" duration="618000" />
-      <workItem from="1666936427134" duration="1271000" />
+      <workItem from="1666936427134" duration="1991000" />
+      <workItem from="1667012551247" duration="4833000" />
     </task>
     <servers />
   </component>
